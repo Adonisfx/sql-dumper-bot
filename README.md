@@ -6,3 +6,5 @@ Sistem için [violenceye teşekkürler](https://github.com/violencedev/)
 
 
 # Not: DM kutunuz kapalı olursa bot hata verir!
+
+Herhangi bir sorun olması halinde; Axioma#1337
