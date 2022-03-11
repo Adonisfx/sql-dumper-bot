@@ -6,6 +6,6 @@ Sistemin Yaptıkları;
 
 - python3
 - mysql
-- pypi discordpy paketi (pip install discordpy / pip3 install discordpy)
+- pypi discordpy paketi (pip install discordpy / pip3 install discordpy) bunlar olmazsa pip install discord yazın
 
 Herhangi bir sorun olması halinde; FurkanE ✨#1881 & Axioma#1337
