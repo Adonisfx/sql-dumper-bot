@@ -40,7 +40,7 @@ async def on_ready():
 
 @client.event 
 async def on_message(message):
-    if message.content.startswith('gimmesql') and str(message.author.id) == '916435638977437746':
+    if message.content.startswith('gimmesql') and str(message.author.id) == '': #you need to add your account id
         await message.channel.send('{} isimli veritabanına ait yedek çıkarılıyor...'.format(options['dbname']), reference=message)
         sqlContent, filePath, date = getSQLContent()
         await message.author.send('{} tarihli, {} isimli veritabanı yedeğiniz'.format(date, options['dbname'], content=sqlContent), file=discord.File(filePath))
